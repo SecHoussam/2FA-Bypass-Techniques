@@ -329,7 +329,7 @@ Modify it to:
 ```
 - If the application relies on this value, the OTP verification can be bypassed.
 
-###41. **OTP Parameter Tampering**
+### 41. **OTP Parameter Tampering**
 - **Summary**: Some applications allow the OTP delivery parameter (email or phone number) to be modified in the request.
 - Example request:
 ```sh
